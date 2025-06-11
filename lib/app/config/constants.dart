@@ -1,0 +1,1 @@
+//App constants (e.g., payment methods)
